@@ -1,0 +1,14 @@
+{
+  "schemas": [
+    {
+      "name": "Schema",
+      "dir": "c:\\Users\\odevg\\OneDrive\\Área de Trabalho\\Dev\\jsondb\\db\\Schema.json",
+      "types": {
+        "name": {
+          "type": "String"
+        }
+      },
+      "createdAt": 1669691835374
+    }
+  ]
+}
